@@ -10,11 +10,8 @@ Hi, I'm **Hao Zhou**, an Assistant Professor at the University of South Florida.
 
 Research statement: In this new era of transportation featuring self-driving and machine learning, challenges of reducing traffic congestion are still out there, if not getting worse. We believe such limitations are due to the lack of a good combination of new technologies and old theories. To fill the gap, we are particularly interested in teaching new technologies old tricks, i.e., incorporating traffic flow/network knowledge into self-driving/machine learning for traffic control. 
 
-
-
-
-
 If you are interested in our research, please email me at - *haozhou1[at]usf[dot]edu*
+
 
 ## Academic Background
 
